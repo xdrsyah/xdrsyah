@@ -1,6 +1,5 @@
-### Hi there 👋
-
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+Hi there 👋
+Hello, I'm xdrsyah, a PHP developer with a strong passion for crafting command-line tools. I'm deeply interested in cryptocurrency, cybersecurity, web development, data science, and machine learning. I enjoy creating innovative and efficient PHP-based solutions for various software development challenges.
 
 <!--
 **xdrsyah/xdrsyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
