@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am andri ansyah, a **Front End Web Developer** (specializing in **React Applications**). I am also Pursuing my Bachelor in **Computer Science & Engineering** and will graduate in mid-2024.
+🎓 I am Andri Ansyah, a **Front End Web Developer** (specializing in **React Applications**). I am also Pursuing my Bachelor in **Computer Science & Engineering** and will graduate in mid-2024.
 
 👨‍💻 I enjoy contributing to **Open Source Projects**. I am really enthusiastic about learning new technology. In 2021, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development & DApps**. 
 
