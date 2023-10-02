@@ -80,6 +80,9 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=xdrsyah.xdrsyah" alt="visitors">
 </div>
 
+## Badge
+
+[![An image of @xdrsyah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xdrsyah)](https://holopin.io/@xdrsyah)
 <!--
 **xdrsyah/xdrsyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
