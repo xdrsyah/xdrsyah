@@ -12,6 +12,8 @@
 
 ✈️ I love **traveling** too. I have been on solo trips to **Singapore** in _2020_ and to **Denpasar, Indonesia** in _2022_.
 
+## 🛠️ Skills
+
 ### Languages
 
 ![php](https://img.shields.io/badge/Php-3178C6?style=for-the-badge&logo=php&logoColor=white)
