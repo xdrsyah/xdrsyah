@@ -71,18 +71,12 @@
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
-## 📈 Stats
+## My GitHub Stats and Top Languages
+![xdrsyah github stats](https://github-readme-stats.vercel.app/api?username=xdrsyah&show_icons=true&theme=one_dark_pro)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdrsyah&layout=donut&theme=one_dark_pro&show_icons=true)
 
-<div align="center">
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=xdrsyah&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
-    <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=xdrsyah.xdrsyah" alt="visitors">
-</div>
 
-## Badge
-
-[![An image of @xdrsyah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xdrsyah)](https://holopin.io/@xdrsyah)
+## My Hacktoberfest Badges (L's Badges xD)
+[![@xdrsyah Holopin board](https://holopin.io/api/user/board?user=xdrsyah)](https://holopin.io/@xdrsyah)
 <!--
 **xdrsyah/xdrsyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
